@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RemyPearson
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning many things with a focus on HTML, CSS, JavaScript, Bootstrap and React
-- 💞️ I’m looking to collaborate on website designs
+- 👀 I’m interested in using my skills in HTML, CSS and JavaScript for front-end development
+- 🌱 I’m currently learning Bootstrap and React
+- 💞️ I’m looking to collaborate on building & designing websites
 - 📫 How to reach me: xRemyPearson@gmail.com
 
 <!---
